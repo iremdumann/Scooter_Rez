@@ -1,0 +1,16 @@
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\bin\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.exe
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\bin\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.deps.json
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\bin\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.runtimeconfig.json
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\bin\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.runtimeconfig.dev.json
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\bin\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.dll
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\bin\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.pdb
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.csproj.AssemblyReference.cache
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.AssemblyInfoInputs.cache
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.AssemblyInfo.cs
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.csproj.CoreCompileInputs.cache
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.dll
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\refint\Çalişmalar2023_01_19_ScoRez.dll
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.pdb
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\Çalişmalar2023_01_19_ScoRez.genruntimeconfig.cache
+C:\Users\ÖĞLE\Desktop\BAUE02\Çalışmalar\Çalişmalar2023_01_19_ScoRez\obj\Debug\net5.0\ref\Çalişmalar2023_01_19_ScoRez.dll

@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 1,
+    "Baslangic": "2023-01-20T19:12:53.3953921+03:00",
+    "Bitis": "2023-01-20T19:13:20.2166563+03:00",
+    "Arac": {
+      "Model": 10,
+      "SeriNo": 3,
+      "BirimKiralamaUcreti": 10,
+      "Kod": "X03",
+      "Durum": 1
+    },
+    "Ucret": 268.2126420,
+    "Durum": 1
+  },
+  {
+    "Id": 2,
+    "Baslangic": "2023-01-20T19:13:49.6344041+03:00",
+    "Bitis": "2023-01-20T19:14:13.233447+03:00",
+    "Arac": {
+      "Model": 10,
+      "SeriNo": 5,
+      "BirimKiralamaUcreti": 10,
+      "Kod": "X05",
+      "Durum": 1
+    },
+    "Ucret": 235.9904290,
+    "Durum": 1
+  },
+  {
+    "Id": 3,
+    "Baslangic": "2023-01-20T20:48:49.1489169+03:00",
+    "Bitis": "2023-01-20T20:52:45.7559034+03:00",
+    "Arac": {
+      "Model": 10,
+      "SeriNo": 1,
+      "BirimKiralamaUcreti": 10,
+      "Kod": "X01",
+      "Durum": 2
+    },
+    "Ucret": 2366.0698650,
+    "Durum": 1
+  },
+  {
+    "Id": 4,
+    "Baslangic": "2023-01-20T20:51:28.1987895+03:00",
+    "Bitis": "0001-01-01T00:00:00",
+    "Arac": {
+      "Model": 20,
+      "SeriNo": 4,
+      "BirimKiralamaUcreti": 20,
+      "Kod": "Y04",
+      "Durum": 2
+    },
+    "Ucret": 0,
+    "Durum": 0
+  },
+  {
+    "Id": 5,
+    "Baslangic": "2023-01-20T20:52:03.3028829+03:00",
+    "Bitis": "0001-01-01T00:00:00",
+    "Arac": {
+      "Model": 20,
+      "SeriNo": 2,
+      "BirimKiralamaUcreti": 20,
+      "Kod": "Y02",
+      "Durum": 2
+    },
+    "Ucret": 0,
+    "Durum": 0
+  },
+  {
+    "Id": 6,
+    "Baslangic": "2023-01-20T20:59:21.3555841+03:00",
+    "Bitis": "0001-01-01T00:00:00",
+    "Arac": {
+      "Model": 10,
+      "SeriNo": 5,
+      "BirimKiralamaUcreti": 10,
+      "Kod": "X05",
+      "Durum": 2
+    },
+    "Ucret": 0,
+    "Durum": 0
+  },
+  {
+    "Id": 7,
+    "Baslangic": "2023-01-20T20:59:33.8456957+03:00",
+    "Bitis": "0001-01-01T00:00:00",
+    "Arac": {
+      "Model": 10,
+      "SeriNo": 1,
+      "BirimKiralamaUcreti": 10,
+      "Kod": "X01",
+      "Durum": 2
+    },
+    "Ucret": 0,
+    "Durum": 0
+  },
+  {
+    "Id": 8,
+    "Baslangic": "2023-01-20T20:59:43.4082782+03:00",
+    "Bitis": "0001-01-01T00:00:00",
+    "Arac": {
+      "Model": 20,
+      "SeriNo": 6,
+      "BirimKiralamaUcreti": 20,
+      "Kod": "Y06",
+      "Durum": 2
+    },
+    "Ucret": 0,
+    "Durum": 0
+  }
+]

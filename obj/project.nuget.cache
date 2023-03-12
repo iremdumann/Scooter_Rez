@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wRyiVb64inTqKlVVZwi8X5HFjqJrREqdE9DVlMtKIngRXQihomVCkJHRwAT7VOYPRiJe5nj61R1MAVhEejw14w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÖĞLE\\Desktop\\BAUE02\\Çalışmalar\\Çalişmalar2023_01_19_ScoRez\\Çalişmalar2023_01_19_ScoRez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÖĞLE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
